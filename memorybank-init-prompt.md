@@ -1,4 +1,5 @@
-initialize memory bank for YaCoin project with the following details:
+initialize memory bank in .memory-bank folder for YaCoin project with the following details:
+
 projectbrief.md:
 - Project name: YaCoin
 - Goal: Create a minimal but complete cryptocurrency implementation in TypeScript
