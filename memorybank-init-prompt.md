@@ -43,4 +43,3 @@ progress.md:
 - In progress: Core blockchain module design
 - Pending: All implementation work
 - Known issues: None yet
-```
